@@ -22,7 +22,7 @@
 	padding: 0 15px 15px 15px;
 	margin: 15px 15px 30px 15px;
 
-	height: 700px;
+	min-height: 700px;
 }
 .item .back-to-top {
 	display: block;
