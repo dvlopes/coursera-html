@@ -1,0 +1,31 @@
+
+#collapsable-navbar {
+	background-color: #bfe9be;
+}
+
+.navbar-nav li {
+	border-bottom: solid #ccc 1px;
+}
+
+.navbar-nav li:last-child {
+	border: 0;
+}
+
+.navbar-nav li a {
+	color: #000;
+	text-align: center;
+}
+
+.item {
+	background-color: #ccc;
+	border: solid 1px #000;
+	padding: 0 15px 15px 15px;
+	margin: 15px 15px 30px 15px;
+
+	height: 700px;
+}
+.item .back-to-top {
+	display: block;
+	width: 100%;
+	margin-top: 10px;
+}
